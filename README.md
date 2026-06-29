@@ -40,5 +40,10 @@ Data analyst with hands-on experience in product and market research analytics: 
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [Interview Debrief Assistant](https://github.com/margomrkv) | Job interview transcript → Q&A extraction → answer scoring. Prompt chaining, structured output, evaluation pipeline. | Python, LangChain, LangGraph, DSPy |
-| [Significance Calculations — DataTile Knowledge Base](https://support.datatile.eu/dkb/significance-calculations) | Methodology documentation for analysts and clients. Standard tests for comparing proportions, advanced cases, statistical testing for Net Promoter Score, advanced test with audience overlap detection. | Documentation |
+| [TranscriptLens](https://github.com/margomrkv) | Assistant that analyzes job interview transcripts and generates feedback for candidates. Under the hood: knowledge base of 70+ YouTube job interviews, prompt chaining with generator–evaluator loop, DSPy/MIPROv2 prompt optimization. | Python, LangChain, LangGraph, DSPy |
+
+### Documentation
+
+| Project | Description |
+|:--------|:------------|
+| [Significance Calculations — DataTile Knowledge Base](https://support.datatile.eu/dkb/significance-calculations) | Methodology documentation for analysts and clients. Standard tests for comparing proportions, advanced cases, statistical testing for Net Promoter Score, advanced test with audience overlap detection. |
