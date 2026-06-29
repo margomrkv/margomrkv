@@ -1,6 +1,6 @@
 # Hi, I'm Margarita 👋
 
-Novi Sad, Serbia · markova.m.soc@gmail.com · [Telegram](https://t.me/margomrkv) · [GitHub](https://github.com/margomrkv) · [LinkedIn](https://linkedin.com/in/margarita-markova-b74110290)
+Novi Sad, Serbia · markova.m.soc@gmail.com · [Telegram](https://t.me/margomrkv) · [LinkedIn](https://linkedin.com/in/margarita-markova-b74110290)
 
 ---
 
