@@ -44,6 +44,6 @@ Data analyst with hands-on experience in product and market research analytics: 
 
 ### Documentation
 
-| Project | Description |
-|:--------|:------------|
-| [Significance Calculations — DataTile Knowledge Base](https://support.datatile.eu/dkb/significance-calculations) | Methodology documentation for analysts and clients. Standard tests for comparing proportions, advanced cases, statistical testing for Net Promoter Score, advanced test with audience overlap detection. |
+| Project | Description | Stack |
+|:--------|:------------|:------|
+| [Significance Calculations — DataTile Knowledge Base](https://support.datatile.eu/dkb/significance-calculations) | Authored a full article series on statistical testing for analysts and clients. Standard tests for comparing proportions, advanced cases, statistical testing for Net Promoter Score, advanced test with audience overlap detection. | Documentation |
