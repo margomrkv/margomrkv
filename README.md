@@ -40,7 +40,7 @@ Data analyst with hands-on experience in product and market research analytics: 
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [TranscriptLens](https://github.com/margomrkv/interview-debrief-assistant) | Assistant that analyzes job interview transcripts and generates feedback for candidates. Under the hood: knowledge base of 70+ YouTube job interviews, prompt chaining with generator–evaluator loop, DSPy/MIPROv2 prompt optimization. | Python, LangChain, LangGraph, DSPy |
+| [TranscriptLens](https://github.com/margomrkv/interview-debrief-assistant) | LLM workflow: job interview transcript → extracted Q&A → score per answer → hire / no-hire. Extraction checked on 70+ YouTube mock interviews in data analytics, data science, and ML: coverage and topic match, target ≥90% (36 Q&A, both 100% on one junior DS mock). Scoring prompt tuned with DSPy MIPROv2 on 169 labeled answers; on 51 held-out answers, 72% matched the label or missed by one point (agreement 0.86). | Python, LiteLLM, DSPy |
 
 ### Documentation
 
