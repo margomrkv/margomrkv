@@ -40,7 +40,7 @@ Data analyst. Eight years in quantitative market research: data pipelines, autom
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [TranscriptLens](https://github.com/margomrkv/interview-debrief-assistant) | LLM workflow: job interview transcript → extracted Q&A → score per answer → hire / no-hire. Extraction checked on 70+ YouTube mock interviews in data analytics, data science, and ML: coverage and topic match, target ≥90% (36 Q&A, both 100% on one junior DS mock). Scoring prompt tuned with DSPy MIPROv2 on 169 labeled answers; on 51 held-out answers, 72% matched the label or missed by one point (agreement 0.86). | Python, LiteLLM, DSPy |
+| [TranscriptLens](https://github.com/margomrkv/interview-debrief-assistant) | Assistant that turns a job interview transcript into feedback for the candidate: extracts questions and answers, gives a score for each answer, and a final hire / no-hire summary. The split was checked on 70+ public YouTube mock interviews in data analytics, data science, and ML. The scoring prompt was tuned with DSPy so the scores stay close to the instructor’s own feedback from the mock interviews. | Python, LiteLLM, DSPy |
 
 ### Documentation
 
