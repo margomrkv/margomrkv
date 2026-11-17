@@ -40,7 +40,7 @@ Data analyst with hands-on experience in product and market research analytics: 
 
 | Project | Description | Stack |
 |:--------|:------------|:------|
-| [TranscriptLens](https://github.com/margomrkv) | Assistant that analyzes job interview transcripts and generates feedback for candidates. Under the hood: knowledge base of 70+ YouTube job interviews, prompt chaining with generator–evaluator loop, DSPy/MIPROv2 prompt optimization. | Python, LangChain, LangGraph, DSPy |
+| [TranscriptLens]([https://github.com/margomrkv](https://github.com/margomrkv/interview-debrief-assistant)) | Assistant that analyzes job interview transcripts and generates feedback for candidates. Under the hood: knowledge base of 70+ YouTube job interviews, prompt chaining with generator–evaluator loop, DSPy/MIPROv2 prompt optimization. | Python, LangChain, LangGraph, DSPy |
 
 ### Documentation
 
