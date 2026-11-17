@@ -6,7 +6,7 @@ Novi Sad, Serbia · markova.m.soc@gmail.com · [Telegram](https://t.me/margomrkv
 
 ## About
 
-Data analyst with hands-on experience in product and market research analytics: cohort analysis, A/B testing, retention metrics, and dashboard delivery. Before transitioning to product analytics, spent 8 years in quantitative market research building data pipelines, automating data quality checks, and running statistical analysis. 3 years of BI experience: requirements gathering, metrics definition, visualization design, and dashboard delivery. Equally confident explaining methodology to non-technical stakeholders and writing specs and demo calculations for developers.
+Data analyst. Eight years in quantitative market research: data pipelines, automated data quality checks, and statistical analysis. Three years of BI: requirements, metric definitions, and dashboards in DataTile and Yandex DataLens, with SQL and Python. Cohort retention and an A/B readout are in the case studies below. Equally confident explaining methodology to non-technical stakeholders and writing specs and demo calculations for developers.
 
 ---
 
@@ -14,7 +14,7 @@ Data analyst with hands-on experience in product and market research analytics: 
 
 **Data:** `Python` `SQL` `R` `PostgreSQL` `pandas` `numpy` `scipy` `statsmodels`  
 **Visualization:** `matplotlib` `seaborn` `plotly` `DataTile` `Yandex DataLens`  
-**AI & Automation:** `LangChain` `LangGraph` `Cursor` `Claude Code` `n8n`  
+**AI & Automation:** `DSPy` `LiteLLM` `Cursor` `Claude Code` `n8n`  
 **Tools:** `Git` `Jupyter` `Airflow` `SPSS` `VBA`
 
 ---
